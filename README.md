@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ashley Loh 
 
-<!--
-**ashleylohyj/ashleylohyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about building practical, AI-driven solutions that solve real-world problems. My main interest is in Applied AI, where I enjoy integrating intelligent systems into applications to improve workflows, automate processes, and create meaningful user experiences.
 
-Here are some ideas to get you started:
+Additionally, I also explore Machine Learning and Deep Learning, focusing on how models are trained and applied to solve practical problems. Alongside this, I work with data analytics, including data cleaning, transformation, and building dashboards that turn data into clear insights for decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages** · Python · SQL
+
+**AI** · RAG · LangChain · Streamlit · Deep Learning · Machine Learning
+
+**Tools** · Jupyter Notebook · PowerBI · Snowflake 
+
+---
+
+## 🚀 Projects
+
+### [DesignAI Home](https://github.com/ashleylohyj/DesignAI-Home)
+An AI-powered interior design web app that takes image, text, and voice input to generate personalised design recommendations and exports them as a PDF report.
+
+`Python` `Applied AI` `Multimodal AI`
+
+---
+
+### [Engagepro Chatbot](https://github.com/ashleylohyj/Engagepro-Chatbot)
+A RAG-based customer service chatbot built with LangChain and Streamlit. Retrieves answers from a company knowledge base and searches Wikipedia for general queries, with ethical safeguards to reduce hallucinations.
+
+`Python` `LangChain` `RAG` `Streamlit` 
+
+---
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ashley-loh-083349305/)
