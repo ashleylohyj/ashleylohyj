@@ -34,6 +34,7 @@ A RAG-based customer service chatbot built with LangChain and Streamlit. Retriev
 
 ### [Food Classification Model](https://github.com/ashleylohyj/Food-Classification-Model)
 A deep learning image classifier built on InceptionV3 transfer learning, trained to identify 10 food categories from the Food-101 dataset. Developed through a structured baseline → scale → fine-tune workflow, achieving 89.2% test accuracy. Tested against real-world food photos to validate generalisation.
+
 `Python` `Deep Learning` `TensorFlow` `Keras`
 
 ---
