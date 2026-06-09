@@ -8,13 +8,16 @@ Additionally, I also explore Machine Learning and Deep Learning, focusing on how
 
 ## Tech Stack
 
-Languages
+#### Languages
+
 Python · SQL
 
-AI & Machine Learning
+#### AI & Machine Learning
+
 RAG · LangChain · Streamlit · Machine Learning · Deep Learning · TensorFlow · Keras
 
-Data & Visualisation
+#### Data & Visualisation
+
 Jupyter Notebook · Power BI · Snowflake · Pandas · Matplotlib · Seaborn
 
 ---
