@@ -6,17 +6,20 @@ Additionally, I also explore Machine Learning and Deep Learning, focusing on how
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Languages** · Python · SQL
+Languages
+Python · SQL
 
-**AI** · RAG · LangChain · Streamlit · Deep Learning · Machine Learning
+AI & Machine Learning
+RAG · LangChain · Streamlit · Machine Learning · Deep Learning · TensorFlow · Keras
 
-**Tools** · Jupyter Notebook · PowerBI · Snowflake 
+Data & Visualisation
+Jupyter Notebook · Power BI · Snowflake · Pandas · Matplotlib · Seaborn
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [DesignAI Home](https://github.com/ashleylohyj/DesignAI-Home)
 An AI-powered interior design web app that takes image, text, and voice input to generate personalised design recommendations and exports them as a PDF report.
@@ -39,6 +42,14 @@ A deep learning image classifier built on InceptionV3 transfer learning, trained
 
 ---
 
-## 📫 Connect
+### [Data Visualisation Analysis of Treadmill Customer Behaviour](https://github.com/ashleylohyj/Data-Visualisation-Analysis-of-Treadmill-Customer-Behaviour)
+
+A data analytics and visualisation project analysing Cardio Good Fitness treadmill customer behaviour. The project explores how customer characteristics such as age, gender, income, fitness level, expected usage, and mileage differ across treadmill product lines.
+
+`Python` `Pandas` `Data Visualisation` `Data Cleaning` `Data Analytics`
+
+---
+
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/ashley-loh-083349305/)
