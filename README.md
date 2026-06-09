@@ -2,8 +2,8 @@
 
 I’m passionate about building practical, AI-driven solutions that solve real-world problems. My main interest is in Applied AI, where I enjoy integrating intelligent systems into applications to improve workflows, automate processes, and create meaningful user experiences.
 
-Additionally, I work with data analytics, including data cleaning, transformation, and building dashboards that turn data into clear insights for decision-making. 
-Alongside this, I also explore Machine Learning and Deep Learning, focusing on how models are trained and applied to solve practical problems.
+Additionally, I work with data analytics, including data cleaning, transformation, and building dashboards that turn data into clear insights for decision-making. Alongside this, I also explore Machine Learning and Deep Learning, focusing on how models are trained and applied to solve practical problems.
+
 ---
 
 ## Tech Stack
